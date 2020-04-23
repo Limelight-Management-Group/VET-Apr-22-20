@@ -1,0 +1,15 @@
+  p {
+   color: blue;
+  }
+
+  .textBox{
+    margin-left: 100px;
+  }
+
+  #text1{
+    font-size: 35px;
+  }
+
+  #text2{
+    font-size: 4em;
+  }
